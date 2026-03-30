@@ -1,5 +1,5 @@
 # 🏥 Patient Health Monitoring Report
-### Power BI Dashboard | DATABUZZ
+### Power BI Report
 
 > A comprehensive patient health monitoring solution tracking risk levels, chronic conditions, visit patterns, and diagnostic summaries across 20,000 patient visits.
 
@@ -268,7 +268,7 @@ The following measures power the KPI cards, charts, and calculated logic through
 
 ### 👤 About the Author
 
-**Abdulsamad K** · Data/BI Analyst · DATABUZZ
+**Abdulsamad K** · Data Analyst | Power BI Developer | BI Analyst ·
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdulsamad-kudehinbu/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-34A853?style=flat&logo=google)](https://sites.google.com/view/abdulsamadportfolio/home)
