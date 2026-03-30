@@ -3,9 +3,10 @@
 
 > A comprehensive patient health monitoring solution tracking risk levels, chronic conditions, visit patterns, and diagnostic summaries across 20,000 patient visits.
 
-🔗 **[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiODNmZDdkN2MtZjdmYi00MmIyLTlmOTEtMWY2M2YzOTIwNjMyIiwidCI6IjgxMTQ1ZWNkLTc5NTAtNDk4Ny1hOGFmLTJhMDY1YTgwMWVhYyJ9)** &nbsp;|&nbsp; 👤 **[LinkedIn](https://www.linkedin.com/in/abdulsamad-kudehinbu/)** &nbsp;|&nbsp; 🌐 **[Portfolio](https://sites.google.com/view/abdulsamadportfolio/home)** &nbsp;|&nbsp; 📃
-**[Dataset](https://github.com/user-attachments/files/26335405/DATA.xlsx)** &nbsp;|&nbsp;
-
+🔗 **[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiODNmZDdkN2MtZjdmYi00MmIyLTlmOTEtMWY2M2YzOTIwNjMyIiwidCI6IjgxMTQ1ZWNkLTc5NTAtNDk4Ny1hOGFmLTJhMDY1YTgwMWVhYyJ9)** &nbsp;|&nbsp; 📃
+**[Dataset](https://github.com/user-attachments/files/26335405/DATA.xlsx)** &nbsp;|&nbsp; 📖
+**[Medium Article](https://medium.com/@kudehinbusamad/from-symptoms-to-strategy-how-i-built-a-patient-health-monitoring-dashboard-in-power-bi-345a7b4fdaa2)**
+ &nbsp;|&nbsp; 👤 **[LinkedIn](https://www.linkedin.com/in/abdulsamad-kudehinbu/)** &nbsp;|&nbsp; 🌐 **[Portfolio](https://sites.google.com/view/abdulsamadportfolio/home)**  
 
 
 ---
