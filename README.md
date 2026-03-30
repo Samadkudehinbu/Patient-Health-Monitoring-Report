@@ -184,7 +184,7 @@ The report is powered by a single Excel file containing 4 sheets:
 
 ## How to Use the Report
 
-1. **Open the file** — Access via the published Power BI Service link.
+1. 1. **Open the file** — Open `Patient_Health_Monitoring_Report.pbix` in Power BI Desktop or access via the published Power BI Service link.
 2. **Navigate pages** — Use the left sidebar to switch between the 4 report pages: Risk Overview, Chronic Health, Visit Analysis, and Summary Table.
 3. **Apply filters** — Use the Filter Pane on the left of each page to narrow data by Year, Month, Location, Gender, or Fever Type.
 4. **Clear filters** — Click the **Clear Slicers** button at the bottom of the Filter Pane to reset all filters at once.
